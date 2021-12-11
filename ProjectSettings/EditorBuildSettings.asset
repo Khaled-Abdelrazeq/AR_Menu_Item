@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FocusScene.unity
+    guid: 8cd3fb126002415479354c0a578a943e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 103b09c9151269949b4422e7d169b44f, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e149309a2c73deb4486af4836be61a0b, type: 2}
